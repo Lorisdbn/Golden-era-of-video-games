@@ -1,5 +1,5 @@
 
-# 🎮 Analyzing the Golden age of video Games
+# 🎮 Analyzing the Golden age of video games
 
 ![video_game](video_game.jpg)
 
